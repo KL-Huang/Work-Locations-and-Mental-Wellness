@@ -4,6 +4,23 @@
 - **IS630_G2_3_Group_3_Statistical_Thinking_for_Data_Science_Mental_Wellness.ipynb**: The main Jupyter Notebook containing the analysis code.
 - **Impact_of_Remote_Work_On_Mental_Health.xlsx**: The raw dataset used.
 
+## How to Run the Code
+
+1.  **Prerequisites**: Ensure you have Python installed (preferably version 3.x).
+2.  **Install Required Libraries**:
+    You can install the necessary libraries using pip. Open your terminal or command prompt and run:
+    ```bash
+    pip install numpy pandas matplotlib seaborn scipy statsmodels scikit-learn imbalanced-learn geopandas openpyxl
+    ```
+3.  **Launch Jupyter Notebook**:
+    Run the following command in your terminal within the project directory:
+    ```bash
+    jupyter notebook
+    ```
+4.  **Execute the Analysis**:
+    - Open `IS630_G2_3_Group_3_Statistical_Thinking_for_Data_Science_Mental_Wellness.ipynb`.
+    - Run the cells sequentially (Menu: Kernel -> Restart & Run All) to reproduce the analysis and results.
+
 ## Analysis Workflow
 This notebook performs the following analysis steps:
 
