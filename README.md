@@ -12,12 +12,7 @@
     ```bash
     pip install numpy pandas matplotlib seaborn scipy statsmodels scikit-learn imbalanced-learn geopandas openpyxl
     ```
-3.  **Launch Jupyter Notebook**:
-    Run the following command in your terminal within the project directory:
-    ```bash
-    jupyter notebook
-    ```
-4.  **Execute the Analysis**:
+3.  **Execute the Analysis**:
     - Open `IS630_G2_3_Group_3_Statistical_Thinking_for_Data_Science_Mental_Wellness.ipynb`.
     - Run the cells sequentially (Menu: Kernel -> Restart & Run All) to reproduce the analysis and results.
 
