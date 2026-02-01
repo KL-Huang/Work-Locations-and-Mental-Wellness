@@ -1,4 +1,4 @@
-# Project Description: Analysis of Remote Work Impact on Mental Health
+# Work Locations and Mental Wellness
 
 ## Files
 - **IS630_G2_3_Group_3_Statistical_Thinking_for_Data_Science_Mental_Wellness.ipynb**: The main Jupyter Notebook containing the analysis code.
